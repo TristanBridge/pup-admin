@@ -1,16 +1,16 @@
 {
-  "collectionName": "components_section_image_texts",
+  "collectionName": "components_content_image_gallery_notes",
   "info": {
-    "name": "text + media",
-    "icon": "photo-video",
+    "name": "Image gallery + notes",
+    "icon": "expand",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "media_text": {
+    "image_gallery_text": {
       "type": "richtext"
     },
-    "media_media": {
+    "image_gallery_media": {
       "collection": "file",
       "via": "related",
       "allowedTypes": [
@@ -20,12 +20,6 @@
       ],
       "plugin": "upload",
       "required": false
-    },
-    "media_caption": {
-      "type": "string"
-    },
-    "media_rights": {
-      "type": "string"
     }
   }
 }

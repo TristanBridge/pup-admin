@@ -23,7 +23,9 @@
     "content": {
       "type": "dynamiczone",
       "components": [
-        "content.image-text"
+        "content.image-text",
+        "content.text-notes",
+        "content.image-gallery-notes"
       ]
     },
     "subtitle": {

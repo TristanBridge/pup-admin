@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_content_text_notes",
+  "info": {
+    "name": "text + notes",
+    "icon": "align-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text_text": {
+      "type": "richtext"
+    },
+    "text_caption": {
+      "type": "richtext"
+    }
+  }
+}
