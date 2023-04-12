@@ -25,7 +25,8 @@
       "components": [
         "content.image-text",
         "content.text-notes",
-        "content.image-gallery-notes"
+        "content.image-gallery-notes",
+        "content.video-notes"
       ]
     },
     "subtitle": {

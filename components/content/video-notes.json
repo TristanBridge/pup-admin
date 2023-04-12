@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_content_video_notes",
+  "info": {
+    "name": "Video + Notes",
+    "icon": "video"
+  },
+  "options": {},
+  "attributes": {
+    "video_text": {
+      "type": "richtext"
+    },
+    "video_guplayId": {
+      "type": "string"
+    }
+  }
+}
