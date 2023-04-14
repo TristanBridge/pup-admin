@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_content_model_viewers",
+  "info": {
+    "name": "Model viewer",
+    "icon": "street-view"
+  },
+  "options": {},
+  "attributes": {
+    "model_address": {
+      "type": "string"
+    }
+  }
+}

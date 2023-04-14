@@ -26,6 +26,9 @@
     },
     "media_rights": {
       "type": "string"
+    },
+    "media_fullWidth": {
+      "type": "boolean"
     }
   }
 }

@@ -26,7 +26,8 @@
         "content.image-text",
         "content.text-notes",
         "content.image-gallery-notes",
-        "content.video-notes"
+        "content.video-notes",
+        "content.model-viewer"
       ]
     },
     "subtitle": {
